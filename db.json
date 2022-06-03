@@ -1,0 +1,10 @@
+{
+  "responses": [
+    {
+      "id": 1,
+      "name": "Paulo",
+      "comment": "Oi, tudo bem?",
+      "rate": 1
+    }
+  ]
+}
